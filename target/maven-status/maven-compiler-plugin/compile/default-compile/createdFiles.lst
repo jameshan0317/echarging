@@ -1,0 +1,12 @@
+echarging\Echarging.class
+echarging\Reserved.class
+echarging\RsrvCancelled.class
+echarging\EchargingApplication.class
+echarging\EchargingController.class
+echarging\PolicyHandler.class
+echarging\EchargingRepository.class
+echarging\config\kafka\KafkaProcessor.class
+echarging\AbstractEvent.class
+echarging\AbstractEvent$1.class
+echarging\ChargingStarted.class
+echarging\ChargingEnded.class
